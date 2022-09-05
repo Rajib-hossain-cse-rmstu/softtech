@@ -24,7 +24,7 @@
                         </form>
                         <!-- Forget Password -->
                         <div class="forget_pass mt-15">
-                            <a href="#">Forget Password?</a>
+                            <a href="{{route('check')}}">Forget Password?</a>
                         </div>
                     </div>
                 </div>
